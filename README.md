@@ -29,8 +29,6 @@ This project was built for **educational purposes** — to understand *how* ever
 
 > 💡 **Why this matters:** Large language models are powerful but static — they only know what they were trained on, and they hallucinate when asked about information outside that training data. RAG solves this by retrieving relevant, up-to-date, verifiable context at query time and *showing* it to the model before it answers.
 
-> 🚧 **Status:** This project is under active development. Core document loading and chunking components are in progress; the modular pipeline (embeddings, vector store, retriever, generation) is being built incrementally. Usage instructions will be added once the pipeline is complete.
-
 ---
 
 ## ✨ Key Features
